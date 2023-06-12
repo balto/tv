@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="30504" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_7728_2C1_600_E080000_0_0_0.png" tvg-id="1:0:19:7728:2C1:600:E080000:0:0:0:" tvg-name="RTL HD",RTL HD
+#EXTVLCOPT:program=30504
+http://iptv.vogofox.net:48512/1:0:19:7728:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30326" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_7676_2BF_600_E080000_0_0_0.png" tvg-id="1:0:19:7676:2BF:600:E080000:0:0:0:" tvg-name="RTL KETTO HD",RTL KETTO HD
+#EXTVLCOPT:program=30326
+http://iptv.vogofox.net:48512/1:0:19:7676:2BF:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31003" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_791B_2C6_600_E080000_0_0_0.png" tvg-id="1:0:19:791B:2C6:600:E080000:0:0:0:" tvg-name="RTL HAROM HD",RTL HAROM HD
+#EXTVLCOPT:program=31003
+http://iptv.vogofox.net:48512/1:0:19:791B:2C6:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="4030" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/tv2hd.png" tvg-id="1:0:1:FBE:D:1:E082E2F:0:0:0:" tvg-name="TV2 HD",TV2 HD
+#EXTVLCOPT:program=4030
+http://iptv.vogofox.net:48512/1:0:1:FBE:D:1:E082E2F:0:0:0:
+#EXTINF:-1 tvg-chno="1365" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/supertv2.png" tvg-id="1:0:1:555:4:1:E08AF9B:0:0:0:" tvg-name="Super TV2",Super TV2
+#EXTVLCOPT:program=1365
+http://iptv.vogofox.net:48512/1:0:1:555:4:1:E08AF9B:0:0:0:
+#EXTINF:-1 tvg-chno="30710" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_77F6_2C3_600_E080000_0_0_0.png" tvg-id="1:0:1:77F6:2C3:600:E080000:0:0:0:" tvg-name="Cartoonito",Cartoonito
+#EXTVLCOPT:program=30710
+http://iptv.vogofox.net:48512/1:0:1:77F6:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31102" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_797E_2C7_600_E080000_0_0_0.png" tvg-id="1:0:1:797E:2C7:600:E080000:0:0:0:" tvg-name="Cartoon Network",Cartoon Network
+#EXTVLCOPT:program=31102
+http://iptv.vogofox.net:48512/1:0:1:797E:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1390" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_56E_5_1_E082E09_0_0_0.png" tvg-id="1:0:1:56E:5:1:E082E09:0:0:0:" tvg-name="Minimax",Minimax
+#EXTVLCOPT:program=1390
+http://iptv.vogofox.net:48512/1:0:1:56E:5:1:E082E09:0:0:0:
+#EXTINF:-1 tvg-chno="31129" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_7999_2C7_600_E080000_0_0_0.png" tvg-id="1:0:1:7999:2C7:600:E080000:0:0:0:" tvg-name="TV2 Kids.",TV2 Kids.
+#EXTVLCOPT:program=31129
+http://iptv.vogofox.net:48512/1:0:1:7999:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30703" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_77EF_2C3_600_E080000_0_0_0.png" tvg-id="1:0:1:77EF:2C3:600:E080000:0:0:0:" tvg-name="Disney Channel",Disney Channel
+#EXTVLCOPT:program=30703
+http://iptv.vogofox.net:48512/1:0:1:77EF:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1060" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_424_3_1_E082F62_0_0_0.png" tvg-id="1:0:1:424:3:1:E082F62:0:0:0:" tvg-name="Animal Planet",Animal Planet
+#EXTVLCOPT:program=1060
+http://iptv.vogofox.net:48512/1:0:1:424:3:1:E082F62:0:0:0:
+#EXTINF:-1 tvg-chno="6010" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_177A_7_1_E082E56_0_0_0.png" tvg-id="1:0:1:177A:7:1:E082E56:0:0:0:" tvg-name="DIGI Animal World",DIGI Animal World
+#EXTVLCOPT:program=6010
+http://iptv.vogofox.net:48512/1:0:1:177A:7:1:E082E56:0:0:0:
+#EXTINF:-1 tvg-chno="30738" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_7812_2C3_600_E080000_0_0_0.png" tvg-id="1:0:19:7812:2C3:600:E080000:0:0:0:" tvg-name="BBC Earth HD",BBC Earth HD
+#EXTVLCOPT:program=30738
+http://iptv.vogofox.net:48512/1:0:19:7812:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="11023" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/natgeohdhun.png" tvg-id="1:0:19:2B0F:B:1111:E082F3C:0:0:0:" tvg-name="Nat Geo HD (HUN)",Nat Geo HD (HUN)
+#EXTVLCOPT:program=11023
+http://iptv.vogofox.net:48512/1:0:19:2B0F:B:1111:E082F3C:0:0:0:
+#EXTINF:-1 tvg-chno="30310" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_7666_2BF_600_E080000_0_0_0.png" tvg-id="1:0:19:7666:2BF:600:E080000:0:0:0:" tvg-name="Nat Geo Wild HD",Nat Geo Wild HD
+#EXTVLCOPT:program=30310
+http://iptv.vogofox.net:48512/1:0:19:7666:2BF:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31108" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_7984_2C7_600_E080000_0_0_0.png" tvg-id="1:0:19:7984:2C7:600:E080000:0:0:0:" tvg-name="Viasat Explore HD",Viasat Explore HD
+#EXTVLCOPT:program=31108
+http://iptv.vogofox.net:48512/1:0:19:7984:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2570" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_A0A_5_1_E082E09_0_0_0.png" tvg-id="1:0:1:A0A:5:1:E082E09:0:0:0:" tvg-name="Fishing and Hunting",Fishing and Hunting
+#EXTVLCOPT:program=2570
+http://iptv.vogofox.net:48512/1:0:1:A0A:5:1:E082E09:0:0:0:
+#EXTINF:-1 tvg-chno="4100" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_1004_5_1_E082E09_0_0_0.png" tvg-id="1:0:1:1004:5:1:E082E09:0:0:0:" tvg-name="Discovery HU",Discovery HU
+#EXTVLCOPT:program=4100
+http://iptv.vogofox.net:48512/1:0:1:1004:5:1:E082E09:0:0:0:
+#EXTINF:-1 tvg-chno="2960" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_B90_7_1_E082E56_0_0_0.png" tvg-id="1:0:1:B90:7:1:E082E56:0:0:0:" tvg-name="DaVinci Learning",DaVinci Learning
+#EXTVLCOPT:program=2960
+http://iptv.vogofox.net:48512/1:0:1:B90:7:1:E082E56:0:0:0:
+#EXTINF:-1 tvg-chno="2580" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_A14_5_1_E082E09_0_0_0.png" tvg-id="1:0:1:A14:5:1:E082E09:0:0:0:" tvg-name="ID Investigation Discovery",ID Investigation Discovery
+#EXTVLCOPT:program=2580
+http://iptv.vogofox.net:48512/1:0:1:A14:5:1:E082E09:0:0:0:
+#EXTINF:-1 tvg-chno="2670" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_A6E_5_1_E082E09_0_0_0.png" tvg-id="1:0:1:A6E:5:1:E082E09:0:0:0:" tvg-name="Spektrum",Spektrum
+#EXTVLCOPT:program=2670
+http://iptv.vogofox.net:48512/1:0:1:A6E:5:1:E082E09:0:0:0:
+#EXTINF:-1 tvg-chno="2935" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_B77_5_1_E082E09_0_0_0.png" tvg-id="1:0:1:B77:5:1:E082E09:0:0:0:" tvg-name="Spektrum Home",Spektrum Home
+#EXTVLCOPT:program=2935
+http://iptv.vogofox.net:48512/1:0:1:B77:5:1:E082E09:0:0:0:
+#EXTINF:-1 tvg-chno="1034" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_40A_7_1_E082E56_0_0_0.png" tvg-id="1:0:1:40A:7:1:E082E56:0:0:0:" tvg-name="HISTORY",HISTORY
+#EXTVLCOPT:program=1034
+http://iptv.vogofox.net:48512/1:0:1:40A:7:1:E082E56:0:0:0:
+#EXTINF:-1 tvg-chno="1175" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/viasathistoryhu.png" tvg-id="1:0:1:497:4:1:E08AF9B:0:0:0:" tvg-name="Viasat History HU",Viasat History HU
+#EXTVLCOPT:program=1175
+http://iptv.vogofox.net:48512/1:0:1:497:4:1:E08AF9B:0:0:0:
+#EXTINF:-1 tvg-chno="1570" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_622_3_1_E082F62_0_0_0.png" tvg-id="1:0:1:622:3:1:E082F62:0:0:0:" tvg-name="Viasat Nature",Viasat Nature
+#EXTVLCOPT:program=1570
+http://iptv.vogofox.net:48512/1:0:1:622:3:1:E082F62:0:0:0:
+#EXTINF:-1 tvg-chno="31015" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_7927_2C6_600_E080000_0_0_0.png" tvg-id="1:0:19:7927:2C6:600:E080000:0:0:0:" tvg-name="Love Nature HD",Love Nature HD
+#EXTVLCOPT:program=31015
+http://iptv.vogofox.net:48512/1:0:19:7927:2C6:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2600" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_A28_5_1_E082E09_0_0_0.png" tvg-id="1:0:1:A28:5:1:E082E09:0:0:0:" tvg-name="TV Paprika HU",TV Paprika HU
+#EXTVLCOPT:program=2600
+http://iptv.vogofox.net:48512/1:0:1:A28:5:1:E082E09:0:0:0:
+#EXTINF:-1 tvg-chno="3150" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_C4E_5_1_E082E09_0_0_0.png" tvg-id="1:0:1:C4E:5:1:E082E09:0:0:0:" tvg-name="Fashion TV",Fashion TV
+#EXTVLCOPT:program=3150
+http://iptv.vogofox.net:48512/1:0:1:C4E:5:1:E082E09:0:0:0:
+#EXTINF:-1 tvg-chno="1540" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/digilife.png" tvg-id="1:0:1:604:4:1:E08AF9B:0:0:0:" tvg-name="DIGI Life",DIGI Life
+#EXTVLCOPT:program=1540
+http://iptv.vogofox.net:48512/1:0:1:604:4:1:E08AF9B:0:0:0:
+#EXTINF:-1 tvg-chno="31105" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_7981_2C7_600_E080000_0_0_0.png" tvg-id="1:0:1:7981:2C7:600:E080000:0:0:0:" tvg-name="AMC HU",AMC HU
+#EXTVLCOPT:program=31105
+http://iptv.vogofox.net:48512/1:0:1:7981:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="501" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_1F5_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1F5:1B:2C0:E080000:0:0:0:" tvg-name="Paramount Channel Hungary",Paramount Channel Hungary
+#EXTVLCOPT:program=501
+http://iptv.vogofox.net:48512/1:0:1:1F5:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1530" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_5FA_3_1_E082F62_0_0_0.png" tvg-id="1:0:1:5FA:3:1:E082F62:0:0:0:" tvg-name="Cool TV",Cool TV
+#EXTVLCOPT:program=1530
+http://iptv.vogofox.net:48512/1:0:1:5FA:3:1:E082F62:0:0:0:
+#EXTINF:-1 tvg-chno="11002" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_2AFA_B_1111_E082F3C_0_0_0.png" tvg-id="1:0:1:2AFA:B:1111:E082F3C:0:0:0:" tvg-name="AXN White",AXN White
+#EXTVLCOPT:program=11002
+http://iptv.vogofox.net:48512/1:0:1:2AFA:B:1111:E082F3C:0:0:0:
+#EXTINF:-1 tvg-chno="11003" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_2AFB_B_1111_E082F3C_0_0_0.png" tvg-id="1:0:1:2AFB:B:1111:E082F3C:0:0:0:" tvg-name="AXN Black",AXN Black
+#EXTVLCOPT:program=11003
+http://iptv.vogofox.net:48512/1:0:1:2AFB:B:1111:E082F3C:0:0:0:
+#EXTINF:-1 tvg-chno="502" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_1F6_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1F6:1B:2C0:E080000:0:0:0:" tvg-name="Comedy Central Family Hungary",Comedy Central Family Hungary
+#EXTVLCOPT:program=502
+http://iptv.vogofox.net:48512/1:0:1:1F6:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="503" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_1F7_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1F7:1B:2C0:E080000:0:0:0:" tvg-name="Comedy Central Hungary",Comedy Central Hungary
+#EXTVLCOPT:program=503
+http://iptv.vogofox.net:48512/1:0:1:1F7:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30129" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_75B1_2BD_600_E080000_0_0_0.png" tvg-id="1:0:1:75B1:2BD:600:E080000:0:0:0:" tvg-name="Moziverzum",Moziverzum
+#EXTVLCOPT:program=30129
+http://iptv.vogofox.net:48512/1:0:1:75B1:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1030" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_406_2_1_E0831B3_0_0_0.png" tvg-id="1:0:1:406:2:1:E0831B3:0:0:0:" tvg-name="Mozi+",Mozi+
+#EXTVLCOPT:program=1030
+http://iptv.vogofox.net:48512/1:0:1:406:2:1:E0831B3:0:0:0:
+#EXTINF:-1 tvg-chno="11017" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_2B09_B_1111_E082F3C_0_0_0.png" tvg-id="1:0:1:2B09:B:1111:E082F3C:0:0:0:" tvg-name="VIASAT 3",VIASAT 3
+#EXTVLCOPT:program=11017
+http://iptv.vogofox.net:48512/1:0:1:2B09:B:1111:E082F3C:0:0:0:
+#EXTINF:-1 tvg-chno="11018" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/viasat6.png" tvg-id="1:0:1:2B0A:B:1111:E082F3C:0:0:0:" tvg-name="VIASAT 6",VIASAT 6
+#EXTVLCOPT:program=11018
+http://iptv.vogofox.net:48512/1:0:1:2B0A:B:1111:E082F3C:0:0:0:
+#EXTINF:-1 tvg-chno="3310" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_CEE_3_1_E082F62_0_0_0.png" tvg-id="1:0:1:CEE:3:1:E082F62:0:0:0:" tvg-name="Film 4",Film 4
+#EXTVLCOPT:program=3310
+http://iptv.vogofox.net:48512/1:0:1:CEE:3:1:E082F62:0:0:0:
+#EXTINF:-1 tvg-chno="1050" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_41A_3_1_E082F62_0_0_0.png" tvg-id="1:0:1:41A:3:1:E082F62:0:0:0:" tvg-name="FilmBox Extra",FilmBox Extra
+#EXTVLCOPT:program=1050
+http://iptv.vogofox.net:48512/1:0:1:41A:3:1:E082F62:0:0:0:
+#EXTINF:-1 tvg-chno="30707" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_77F3_2C3_600_E080000_0_0_0.png" tvg-id="1:0:1:77F3:2C3:600:E080000:0:0:0:" tvg-name="Life TV",Life TV
+#EXTVLCOPT:program=30707
+http://iptv.vogofox.net:48512/1:0:1:77F3:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30333" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_767D_2BF_600_E080000_0_0_0.png" tvg-id="1:0:19:767D:2BF:600:E080000:0:0:0:" tvg-name="Film+ HD",Film+ HD
+#EXTVLCOPT:program=30333
+http://iptv.vogofox.net:48512/1:0:19:767D:2BF:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1512" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/magyaratv.png" tvg-id="1:0:1:5E8:4:1:E08AF9B:0:0:0:" tvg-name="Magyar ATV",Magyar ATV
+#EXTVLCOPT:program=1512
+http://iptv.vogofox.net:48512/1:0:1:5E8:4:1:E08AF9B:0:0:0:
+#EXTINF:-1 tvg-chno="4040" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_FC8_D_1_E082E2F_0_0_0.png" tvg-id="1:0:1:FC8:D:1:E082E2F:0:0:0:" tvg-name="M1 HD",M1 HD
+#EXTVLCOPT:program=4040
+http://iptv.vogofox.net:48512/1:0:1:FC8:D:1:E082E2F:0:0:0:
+#EXTINF:-1 tvg-chno="30502" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_7726_2C1_600_E080000_0_0_0.png" tvg-id="1:0:19:7726:2C1:600:E080000:0:0:0:" tvg-name="m2 HD",m2 HD
+#EXTVLCOPT:program=30502
+http://iptv.vogofox.net:48512/1:0:19:7726:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31006" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_791E_2C6_600_E080000_0_0_0.png" tvg-id="1:0:19:791E:2C6:600:E080000:0:0:0:" tvg-name="M4 HD",M4 HD
+#EXTVLCOPT:program=31006
+http://iptv.vogofox.net:48512/1:0:19:791E:2C6:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30522" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_773A_2C1_600_E080000_0_0_0.png" tvg-id="1:0:19:773A:2C1:600:E080000:0:0:0:" tvg-name="m5 HD",m5 HD
+#EXTVLCOPT:program=30522
+http://iptv.vogofox.net:48512/1:0:19:773A:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="3490" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_DA2_C_1_E082E7C_0_0_0.png" tvg-id="1:0:1:DA2:C:1:E082E7C:0:0:0:" tvg-name="M4 Sport",M4 Sport
+#EXTVLCOPT:program=3490
+http://iptv.vogofox.net:48512/1:0:1:DA2:C:1:E082E7C:0:0:0:
+#EXTINF:-1 tvg-chno="31001" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_19_7919_2C6_600_E080000_0_0_0.png" tvg-id="1:0:19:7919:2C6:600:E080000:0:0:0:" tvg-name="Duna HD",Duna HD
+#EXTVLCOPT:program=31001
+http://iptv.vogofox.net:48512/1:0:19:7919:2C6:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1190" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/hirtv.png" tvg-id="1:0:1:4A6:3:1:E082F62:0:0:0:" tvg-name="Hir TV",Hir TV
+#EXTVLCOPT:program=1190
+http://iptv.vogofox.net:48512/1:0:1:4A6:3:1:E082F62:0:0:0:
+#EXTINF:-1 tvg-chno="509" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_1FD_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1FD:1B:2C0:E080000:0:0:0:" tvg-name="club MTV",club MTV
+#EXTVLCOPT:program=509
+http://iptv.vogofox.net:48512/1:0:1:1FD:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="510" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_1FE_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1FE:1B:2C0:E080000:0:0:0:" tvg-name="MTV 80s",MTV 80s
+#EXTVLCOPT:program=510
+http://iptv.vogofox.net:48512/1:0:1:1FE:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="511" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_1FF_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1FF:1B:2C0:E080000:0:0:0:" tvg-name="MTV 90s",MTV 90s
+#EXTVLCOPT:program=511
+http://iptv.vogofox.net:48512/1:0:1:1FF:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="507" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_1FB_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1FB:1B:2C0:E080000:0:0:0:" tvg-name="MTV 00s",MTV 00s
+#EXTVLCOPT:program=507
+http://iptv.vogofox.net:48512/1:0:1:1FB:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="506" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_1FA_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1FA:1B:2C0:E080000:0:0:0:" tvg-name="MTV Europe",MTV Europe
+#EXTVLCOPT:program=506
+http://iptv.vogofox.net:48512/1:0:1:1FA:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="508" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/1_0_1_1FC_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1FC:1B:2C0:E080000:0:0:0:" tvg-name="MTV Hits",MTV Hits
+#EXTVLCOPT:program=508
+http://iptv.vogofox.net:48512/1:0:1:1FC:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30503" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/sport1hd.png" tvg-id="1:0:19:7727:2C1:600:E080000:0:0:0:" tvg-name="Sport 1 HD",Sport 1 HD
+#EXTVLCOPT:program=30503
+http://iptv.vogofox.net:48512/1:0:19:7727:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="4050" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/sport2hd.png" tvg-id="1:0:1:FD2:D:1:E082E2F:0:0:0:" tvg-name="Sport2 HD",Sport2 HD
+#EXTVLCOPT:program=4050
+http://iptv.vogofox.net:48512/1:0:1:FD2:D:1:E082E2F:0:0:0:
+#EXTINF:-1 tvg-chno="2015" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/eurosport1hd.png" tvg-id="1:0:19:7DF:AF2:BB:E080000:0:0:0:" tvg-name="Eurosport 1 HD",Eurosport 1 HD
+#EXTVLCOPT:program=2015
+http://iptv.vogofox.net:48512/1:0:19:7DF:AF2:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2016" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/eurosport2hd.png" tvg-id="1:0:19:7E0:AF2:BB:E080000:0:0:0:" tvg-name="Eurosport 2 HD",Eurosport 2 HD
+#EXTVLCOPT:program=2016
+http://iptv.vogofox.net:48512/1:0:19:7E0:AF2:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30216" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/dunaworldm4sportplus.png" tvg-id="1:0:1:7608:2BE:600:E080000:0:0:0:" tvg-name="Duna World / M4 Sport+",Duna World / M4 Sport+
+#EXTVLCOPT:program=30216
+http://iptv.vogofox.net:48512/1:0:1:7608:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="4070" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/digisport1hdro.png" tvg-id="1:0:1:FE6:D:1:E082E2F:0:0:0:" tvg-name="DIGI Sport 1 HD RO",DIGI Sport 1 HD RO
+#EXTVLCOPT:program=4070
+http://iptv.vogofox.net:48512/1:0:1:FE6:D:1:E082E2F:0:0:0:
+#EXTINF:-1 tvg-chno="4080" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/digisport2hdro.png" tvg-id="1:0:1:FF0:D:1:E082E2F:0:0:0:" tvg-name="DIGI Sport 2 HD RO",DIGI Sport 2 HD RO
+#EXTVLCOPT:program=4080
+http://iptv.vogofox.net:48512/1:0:1:FF0:D:1:E082E2F:0:0:0:
+#EXTINF:-1 tvg-chno="1036" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/digisport3.png" tvg-id="1:0:1:40C:C:1:E082E7C:0:0:0:" tvg-name="DIGI Sport 3",DIGI Sport 3
+#EXTVLCOPT:program=1036
+http://iptv.vogofox.net:48512/1:0:1:40C:C:1:E082E7C:0:0:0:
+#EXTINF:-1 tvg-chno="1009" tvg-logo="https://drive.google.com/drive/folders/1DXLF5NwH_244OZHIoI8QLxYzh1JCVN16/digisport4.png" tvg-id="1:0:1:3F1:1:1:E08318F:0:0:0:" tvg-name="DIGI Sport 4",DIGI Sport 4
+#EXTVLCOPT:program=1009
+http://iptv.vogofox.net:48512/1:0:1:3F1:1:1:E08318F:0:0:0:
